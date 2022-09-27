@@ -1,0 +1,90 @@
+---
+title           : "Carbon sequastration in shelterbelts surrounding Alberta cropland"
+shorttitle      : "My Pregistration"
+date            : "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%d\\\\. %B %Y')`"
+
+author: 
+  - name        : Stephanie Flaman
+    affiliation : 1
+  - name        : Living Data Project
+    affiliation : "1,2"
+
+affiliation:
+  - id          : 1
+    institution : University of Regina
+  - id          : 2
+    institution : University of British Columbia
+
+output: prereg::prereg_pdf
+
+
+csl: agriculture-ecosystems-and-environment.csl
+bibliography: References.bib
+---
+
+<!-- To keep pre-registrations to a reasonable length for readers, we recommend answers fit within a single page .pdf document, roughly 3200 characters. Read more about this here: https://aspredicted.org/messages/why_limits.php -->
+
+## Data collection
+
+<!-- Have any data been collected for this study already? (Note: "Yes" is not an accepted answer.) -->
+
+**Yes**, the data comes from Gross et al. 2022.
+
+## Hypothesis
+
+<!-- What's the main question being asked or hypothesis being tested in this study? -->
+
+> How much carbon does the shelter belts of Alberta sequester and what is the benefit of this?
+
+## Dependent variable
+
+<!-- Describe the key dependent variable(s) specifying how they will be measured. -->
+
+> Amount of carbon stored in each individual plant.
+
+## Conditions
+
+<!-- How many and which conditions will participants be assigned to? -->
+
+> Pending.
+
+## Analyses
+
+<!-- Specify exactly which analyses you will conduct to examine the main question/hypothesis. -->
+
+> TBD.
+
+## Outliers and exclusions
+
+<!-- Describe exactly how outliers will be defined and handled, and your precise rule(s) for excluding observations. -->
+
+> TBD.
+
+## Sample size
+
+<!-- How many observations will be collected or what will determine sample size? No need to justify decision, but be precise about _exactly_ how the number will be determined. -->
+
+> Sample size for this mini project is 10 (hedge grows and shelter belts).
+
+## Other
+
+<!-- Anything else you would like to pre-register? (e.g., secondary analyses, variables collected for exploratory purposes, unusual analyses planned?) -->
+
+## Study type
+
+Observational/archival study
+
+# References
+
+::: {#refs}
+:::
+
+## 
+
+```{=tex}
+\vspace{-2pc}
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{-1in}
+\setlength{\parskip}{8pt}
+```
+\noindent
