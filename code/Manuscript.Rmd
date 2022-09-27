@@ -1,0 +1,31 @@
+---
+title: "Carbon sequestration in woody vegetation surrounding Alberta Cropland"
+author: "Stephanie Flaman"
+geometry: margin=1in
+output: pdf_document
+csl: https://www.zotero.org/styles/agriculture-ecosystems-and-environment?source=1
+bibliography: References.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Abstract
+
+Looking at how much carbon can be stored within select woody vegetation surrounding Alberta cropland.
+
+# Introduction
+
+
+# Methods
+
+
+# Results
+
+
+# Discussion
+
+
+# References
+
