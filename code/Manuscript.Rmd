@@ -9,11 +9,17 @@ bibliography: References.bib
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
+
+library("dplyr")
+library("tidyverse")
+library("ggplot2")
 ```
+
 
 # Abstract
 
-Looking at how much carbon can be stored within select woody vegetation surrounding Alberta cropland.
+Looking at how much carbon can be stored within select woody vegetation surrounding Alberta cropland. [@huffman_carbon_2015]
 
 # Introduction
 
@@ -23,9 +29,21 @@ Looking at how much carbon can be stored within select woody vegetation surround
 
 # Results
 
+```{r message=FALSE, echo=FALSE}
+
+woodland <- read_csv("../data/Woodland.csv")
+
+ggplot(data = woodland,
+       mapping = aes(x = Species.richness, y = Tree.age.yrs)) +
+  geom_point()
+
+```
+
 
 # Discussion
 
 
 # References
 
+::: {#refs}
+:::
