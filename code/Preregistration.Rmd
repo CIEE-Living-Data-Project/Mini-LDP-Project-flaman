@@ -34,7 +34,7 @@ bibliography: References.bib
 
 <!-- What's the main question being asked or hypothesis being tested in this study? -->
 
-> How much carbon does the shelter belts of Alberta sequester and what is the benefit of this?
+> How much carbon does the shelter belts of Alberta sequester and what is the benefit of this? [@huffman_carbon_2015]
 
 ## Dependent variable
 
