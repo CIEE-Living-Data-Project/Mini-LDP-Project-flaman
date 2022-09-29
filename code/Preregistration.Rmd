@@ -28,13 +28,13 @@ bibliography: References.bib
 
 <!-- Have any data been collected for this study already? (Note: "Yes" is not an accepted answer.) -->
 
-**Yes**, the data comes from Gross et al. 2022.
+**Yes**, the data comes from <https://doi.org/10.5061/dryad.0zpc86711> and this data was created into a paper by [@gross_agroforestry_2022].
 
 ## Hypothesis
 
 <!-- What's the main question being asked or hypothesis being tested in this study? -->
 
-> How much carbon does the shelter belts of Alberta sequester and what is the benefit of this? [@huffman_carbon_2015]
+> How much carbon do the shelter belts of Alberta sequester and what is the benefit of this? [@huffman_carbon_2015]
 
 ## Dependent variable
 
@@ -46,19 +46,19 @@ bibliography: References.bib
 
 <!-- How many and which conditions will participants be assigned to? -->
 
-> Pending.
+> The conditions for the collection of this data is that the vegetation being studied must be located in Alberta and it must be surrounding cropland. Additionally these vegetation must be in the form of trees or shrubs.
 
 ## Analyses
 
 <!-- Specify exactly which analyses you will conduct to examine the main question/hypothesis. -->
 
-> TBD.
+> Analyses will be done by using statistics incorporated into R packages - the type of statistics and what packages will be used still must be decided.
 
 ## Outliers and exclusions
 
 <!-- Describe exactly how outliers will be defined and handled, and your precise rule(s) for excluding observations. -->
 
-> TBD.
+> Outliers will be identified when cleaning data by using R code.
 
 ## Sample size
 
@@ -70,6 +70,8 @@ bibliography: References.bib
 
 <!-- Anything else you would like to pre-register? (e.g., secondary analyses, variables collected for exploratory purposes, unusual analyses planned?) -->
 
+> My plan for my own data from Saskatchewan will be added to this preregistration.
+
 ## Study type
 
 Observational/archival study
@@ -79,12 +81,9 @@ Observational/archival study
 ::: {#refs}
 :::
 
-## 
-
 ```{=tex}
-\vspace{-2pc}
+\vspace{-1pc}
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{-1in}
 \setlength{\parskip}{8pt}
 ```
-\noindent

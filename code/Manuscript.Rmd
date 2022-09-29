@@ -41,7 +41,7 @@ ggplot(data = woodland,
 
 ```
 
-Data taken from <https://doi.org/10.5061/dryad.0zpc86711>.
+Data taken from <https://doi.org/10.5061/dryad.0zpc86711> and this data was created into a paper by [@gross_agroforestry_2022].
 
 # Discussion
 
